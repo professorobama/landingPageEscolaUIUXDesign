@@ -50,5 +50,15 @@ Desenvolvida com **HTML5 + CSS3 + JavaScript** (sem frameworks), código **semâ
 ---
 
 ## 🗂 Estrutura de Pastas
-
+/
+├─ index.html
+├─ css/
+│  └─ style.css
+├─ js/
+│  └─ script.js
+└─ assets/
+└─ img/
+├─ logo.svg
+├─ favicon.svg
+└─ hero-illustration.svg
 ``
