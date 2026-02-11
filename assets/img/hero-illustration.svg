@@ -1,0 +1,24 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='560' height='420' viewBox='0 0 560 420' fill='none'>
+  <defs>
+    <linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'>
+      <stop offset='0' stop-color='rgba(108,140,255,0.25)'/>
+      <stop offset='1' stop-color='rgba(159,108,255,0.25)'/>
+    </linearGradient>
+  </defs>
+  <rect x='0' y='0' width='560' height='420' rx='24' fill='url(#bg)'/>
+  <g stroke='rgba(255,255,255,0.6)'>
+    <rect x='60' y='60' width='440' height='300' rx='16' fill='rgba(12,20,48,0.55)'/>
+    <rect x='90' y='100' width='180' height='22' rx='6'/>
+    <rect x='90' y='140' width='340' height='14' rx='6'/>
+    <rect x='90' y='164' width='300' height='14' rx='6'/>
+    <rect x='90' y='188' width='260' height='14' rx='6'/>
+    <rect x='90' y='240' width='120' height='80' rx='12'/>
+    <rect x='230' y='240' width='120' height='80' rx='12'/>
+    <rect x='370' y='240' width='60' height='80' rx='12'/>
+  </g>
+  <g>
+    <circle cx='470' cy='90' r='8' fill='#6c8cff'/>
+    <circle cx='490' cy='90' r='8' fill='#9f6cff'/>
+    <circle cx='510' cy='90' r='8' fill='#6ce2ff'/>
+  </g>
+</svg>
